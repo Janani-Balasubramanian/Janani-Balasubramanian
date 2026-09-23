@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Janani B</title>
+  <desc id="desc">Data analytics. Thoughtful software. A curious mind.</desc>
+  <rect width="1200" height="320" rx="20" fill="#483018"/>
+  <path d="M740 0H1180Q1200 0 1200 20V300Q1200 320 1180 320H740Z" fill="#e1bb36"/>
+  <g fill="none" stroke="#483018" opacity=".35">
+    <circle cx="980" cy="160" r="105"/><circle cx="980" cy="160" r="73"/>
+    <ellipse cx="980" cy="160" rx="175" ry="48" transform="rotate(-30 980 160)"/>
+  </g>
+  <circle cx="1038" cy="72" r="8" fill="#483018"/>
+  <circle cx="905" cy="199" r="5" fill="#483018"/>
+  <text x="58" y="66" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#e1bb36">DATA · CODE · CURIOSITY</text>
+  <text x="52" y="174" font-family="Georgia,serif" font-size="90" fill="#fff4d6">Janani B.</text>
+  <text x="58" y="233" font-family="Arial,sans-serif" font-size="23" fill="#ecdbb6">Turning questions into insights.</text>
+  <text x="58" y="272" font-family="Arial,sans-serif" font-size="16" fill="#e1bb36">Computer Science &amp; Business Systems · Chennai, India</text>
+</svg>
