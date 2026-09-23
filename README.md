@@ -53,3 +53,5 @@ At **India Space Academy** in June–July 2025, I analyzed mid-infrared spectral
 ---
 
 **Let's build something useful.** I'm open to data analytics internships and thoughtful project collaborations.
+
+Open http://localhost:4173 in your browser. You can also open index.html directly. Google Fonts requires an internet connection; fallback fonts are provided.
